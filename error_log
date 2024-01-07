@@ -1,0 +1,3 @@
+[26-Dec-2022 14:43:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Dec-2022 14:43:46 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
+[31-Jan-2023 05:54:13 UTC] The WC_Order::reduce_order_stock function is deprecated since version 3.0. Replace with wc_reduce_stock_levels.
